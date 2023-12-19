@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Stock-management
 Use to manage the stock.
-=======
 # Gain.POS
 Laravel + vue based POS application!
 
@@ -43,4 +41,3 @@ Laravel + vue based POS application!
 **N.B:-** Be carefull about `Email Setting` which is must needed for sending auto email notification. If you don't complete the `Email Setting` some features will not work properly.
 
 Other settings set as you need.
->>>>>>> master
